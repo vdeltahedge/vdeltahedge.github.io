@@ -127,6 +127,22 @@ ul {
   width: 100%;
   height: 100%;
 }
+
+.portfolio-item__description {
+  display: inline-block;
+  position: relative;
+  right: 50%;
+  font-family: 'Salamander';
+  font-weight: normal;
+  font-size: 40px;
+  color: #ffffff;
+  text-align: center;
+}
+
+.portfolio-item__description_f {
+  left: -12px;
+}
+
 .portfolio-item__link:hover .portfolio-item__image {
   opacity: 0.5;
 }
