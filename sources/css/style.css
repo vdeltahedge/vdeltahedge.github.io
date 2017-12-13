@@ -99,7 +99,7 @@ ul {
 .portfolio-item {
   width: 70%;
   max-width: 300px;
-  margin: 0 auto 3% auto;
+  margin: 0 auto 25px auto;
 }
 .portfolio-item__link {
   position: relative;
